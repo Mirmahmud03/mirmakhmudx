@@ -54,15 +54,4 @@
 
 ---
 
-<p align="center">
-  💡 "Consistency beats talent. Keep building."
-</p>
 
-![snake gif](https://github.com/mirmakhmudx/mirmakhmudx/blob/output/github-contribution-grid-snake.svg)
-
-
-
- ⚙️ Tools & DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github" />
-</p>
