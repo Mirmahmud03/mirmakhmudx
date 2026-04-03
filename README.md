@@ -34,15 +34,7 @@
 
 ---
 
- 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mirmakhmudx&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mirmakhmudx&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
@@ -69,22 +61,6 @@
 ![snake gif](https://github.com/mirmakhmudx/mirmakhmudx/blob/output/github-contribution-grid-snake.svg)
 
 
-🛠️ Tech Stack
-
-💻 Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,cs,cpp,python" />
-</p>
-
-🌐 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap" />
-</p>
-
- 🗄️ Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
-</p>
 
  ⚙️ Tools & DevOps
 <p>
