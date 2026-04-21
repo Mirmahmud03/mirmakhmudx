@@ -50,7 +50,7 @@
 📫 Connect With Me
 
 * Telegram: @L_0077l
-* Email: mahmudkailof@gmail.com
+* Email: mahmudkamilof@gmail.com
 
 ---
 
