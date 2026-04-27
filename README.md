@@ -47,7 +47,7 @@
 
 ---
 
-📫 Connect With Me:
+📫 Connect With Me
 
 * Telegram: @L_0077l
 * Email: mahmudkamilof@gmail.com
