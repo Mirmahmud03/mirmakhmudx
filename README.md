@@ -49,7 +49,7 @@
 
 📫 Connect With Me
 
-* Telegram: @L_007
+* Telegram: @L_0077l
 * Email: mahmudkamilof@gmail.com
 
 ---
